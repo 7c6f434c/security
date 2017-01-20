@@ -19,7 +19,7 @@ the one after that. If you would like to be CC'd on the next roundup,
 add a comment to the most recent vulnerability roundup.
 
 Permanent CC's: @joepie91, @phanimahesh, @the-kenny,
-@NixOS/security-notifications
+@NixOS/security-notifications, @7c6f434c
 If you would like to be CC'd on _all_ roundups (or removed from the
 list), open a PR editing
 https://github.com/NixOS/security/blob/master/lwnvulns/src/bin/instructions.md.
